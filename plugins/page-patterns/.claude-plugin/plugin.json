@@ -1,0 +1,18 @@
+{
+  "name": "page-patterns",
+  "version": "1.0.0",
+  "description": "Pattern backgrounds for website sections, designed by Claude: the Page Patterns MCP server and skill.",
+  "author": {
+    "name": "Peter Claridge",
+    "url": "https://pagepatterns.com"
+  },
+  "homepage": "https://pagepatterns.com",
+  "userConfig": {
+    "page_patterns_key": {
+      "type": "string",
+      "title": "Page Patterns key",
+      "description": "Your free key from https://pagepatterns.com/account",
+      "sensitive": true
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "page-patterns",
+  "description": "Pattern backgrounds for website sections, designed by Claude: the Page Patterns MCP server and skill.",
+  "owner": {
+    "name": "Peter Claridge",
+    "email": "hello@pagepatterns.com"
+  },
+  "plugins": [
+    {
+      "name": "page-patterns",
+      "source": "./plugins/page-patterns",
+      "description": "Pattern backgrounds for website sections, designed by Claude: the Page Patterns MCP server and skill."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "page-patterns": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "page-patterns@1",
+        "mcp"
+      ],
+      "env": {
+        "PAGE_PATTERNS_KEY": "${user_config.page_patterns_key}"
+      }
+    }
+  }
+}
